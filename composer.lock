@@ -148,16 +148,16 @@
             "time": "2021-09-03T18:13:44+00:00"
         },
         {
-            "name": "playcast/playforms",
+            "name": "azuracast/azuraforms",
             "version": "dev-main",
             "source": {
                 "type": "git",
-                "url": "https://github.com/PlayCast/playforms.git",
+                "url": "https://github.com/AzuraCast/azuraforms.git",
                 "reference": "d1ca581e29881e183df43f6979d3eab6f816988d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PlayCast/playforms/zipball/d1ca581e29881e183df43f6979d3eab6f816988d",
+                "url": "https://api.github.com/repos/AzuraCast/azuraforms/zipball/d1ca581e29881e183df43f6979d3eab6f816988d",
                 "reference": "d1ca581e29881e183df43f6979d3eab6f816988d",
                 "shasum": ""
             },
@@ -199,38 +199,38 @@
                 }
             ],
             "description": "A modern, namespaced, configuration-driven forms engine for PHP.",
-            "homepage": "https://github.com/PlayCast/playforms",
+            "homepage": "https://github.com/AzuraCast/azuraforms",
             "support": {
-                "issues": "https://github.com/PlayCast/playforms/issues",
-                "source": "https://github.com/PlayCast/playforms/tree/main"
+                "issues": "https://github.com/AzuraCast/azuraforms/issues",
+                "source": "https://github.com/AzuraCast/azuraforms/tree/main"
             },
             "funding": [
                 {
-                    "url": "https://github.com/PlayCast",
+                    "url": "https://github.com/AzuraCast",
                     "type": "github"
                 },
                 {
-                    "url": "https://opencollective.com/playcast",
+                    "url": "https://opencollective.com/azuracast",
                     "type": "open_collective"
                 },
                 {
-                    "url": "https://www.patreon.com/PlayCast",
+                    "url": "https://www.patreon.com/AzuraCast",
                     "type": "patreon"
                 }
             ],
             "time": "2021-09-05T01:04:18+00:00"
         },
         {
-            "name": "playcast/flysystem-v2-extensions",
+            "name": "azuracast/flysystem-v2-extensions",
             "version": "dev-main",
             "source": {
                 "type": "git",
-                "url": "https://github.com/PlayCast/flysystem-v2-extensions.git",
+                "url": "https://github.com/AzuraCast/flysystem-v2-extensions.git",
                 "reference": "8dad672b5eeb07297209afbb5f945ad0863235cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PlayCast/flysystem-v2-extensions/zipball/8dad672b5eeb07297209afbb5f945ad0863235cb",
+                "url": "https://api.github.com/repos/AzuraCast/flysystem-v2-extensions/zipball/8dad672b5eeb07297209afbb5f945ad0863235cb",
                 "reference": "8dad672b5eeb07297209afbb5f945ad0863235cb",
                 "shasum": ""
             },
@@ -279,36 +279,36 @@
                 "storage"
             ],
             "support": {
-                "issues": "https://github.com/PlayCast/flysystem-v2-extensions/issues",
-                "source": "https://github.com/PlayCast/flysystem-v2-extensions/tree/main"
+                "issues": "https://github.com/AzuraCast/flysystem-v2-extensions/issues",
+                "source": "https://github.com/AzuraCast/flysystem-v2-extensions/tree/main"
             },
             "funding": [
                 {
-                    "url": "https://github.com/PlayCast",
+                    "url": "https://github.com/AzuraCast",
                     "type": "github"
                 },
                 {
-                    "url": "https://opencollective.com/playcast",
+                    "url": "https://opencollective.com/azuracast",
                     "type": "open_collective"
                 },
                 {
-                    "url": "https://www.patreon.com/PlayCast",
+                    "url": "https://www.patreon.com/AzuraCast",
                     "type": "patreon"
                 }
             ],
             "time": "2021-06-21T02:10:40+00:00"
         },
         {
-            "name": "playcast/metadata-manager",
+            "name": "azuracast/metadata-manager",
             "version": "dev-main",
             "source": {
                 "type": "git",
-                "url": "https://github.com/PlayCast/metadata-manager.git",
+                "url": "https://github.com/AzuraCast/metadata-manager.git",
                 "reference": "36638b7dfe52e3d2a502e9269b02b4d885820ddd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PlayCast/metadata-manager/zipball/36638b7dfe52e3d2a502e9269b02b4d885820ddd",
+                "url": "https://api.github.com/repos/AzuraCast/metadata-manager/zipball/36638b7dfe52e3d2a502e9269b02b4d885820ddd",
                 "reference": "36638b7dfe52e3d2a502e9269b02b4d885820ddd",
                 "shasum": ""
             },
@@ -348,37 +348,37 @@
                 }
             ],
             "description": "A command-line wrapper around the PHP GetId3 library.",
-            "homepage": "https://github.com/PlayCast/metadata-manager",
+            "homepage": "https://github.com/AzuraCast/metadata-manager",
             "support": {
-                "source": "https://github.com/PlayCast/metadata-manager/tree/main"
+                "source": "https://github.com/AzuraCast/metadata-manager/tree/main"
             },
             "funding": [
                 {
-                    "url": "https://github.com/PlayCast",
+                    "url": "https://github.com/AzuraCast",
                     "type": "github"
                 },
                 {
-                    "url": "https://opencollective.com/playcast",
+                    "url": "https://opencollective.com/azuracast",
                     "type": "open_collective"
                 },
                 {
-                    "url": "https://www.patreon.com/PlayCast",
+                    "url": "https://www.patreon.com/AzuraCast",
                     "type": "patreon"
                 }
             ],
             "time": "2021-08-24T03:19:30+00:00"
         },
         {
-            "name": "playcast/nowplaying",
+            "name": "azuracast/nowplaying",
             "version": "dev-main",
             "source": {
                 "type": "git",
-                "url": "https://github.com/PlayCast/nowplaying.git",
+                "url": "https://github.com/AzuraCast/nowplaying.git",
                 "reference": "f63d430183297aba0d3ba745ad808cabd69e37af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PlayCast/nowplaying/zipball/f63d430183297aba0d3ba745ad808cabd69e37af",
+                "url": "https://api.github.com/repos/AzuraCast/nowplaying/zipball/f63d430183297aba0d3ba745ad808cabd69e37af",
                 "reference": "f63d430183297aba0d3ba745ad808cabd69e37af",
                 "shasum": ""
             },
@@ -418,38 +418,38 @@
                     "email": "buster@busterneece.com"
                 }
             ],
-            "description": "A lightweight PHP adapter for viewing the current now playing data in Icecast and SHOUTcast 1/2. A part of the PlayCast software suite.",
+            "description": "A lightweight PHP adapter for viewing the current now playing data in Icecast and SHOUTcast 1/2. A part of the AzuraCast software suite.",
             "support": {
-                "issues": "https://github.com/PlayCast/nowplaying/issues",
-                "source": "https://github.com/PlayCast/nowplaying/tree/main"
+                "issues": "https://github.com/AzuraCast/nowplaying/issues",
+                "source": "https://github.com/AzuraCast/nowplaying/tree/main"
             },
             "funding": [
                 {
-                    "url": "https://github.com/PlayCast",
+                    "url": "https://github.com/AzuraCast",
                     "type": "github"
                 },
                 {
-                    "url": "https://opencollective.com/playcast",
+                    "url": "https://opencollective.com/azuracast",
                     "type": "open_collective"
                 },
                 {
-                    "url": "https://www.patreon.com/PlayCast",
+                    "url": "https://www.patreon.com/AzuraCast",
                     "type": "patreon"
                 }
             ],
             "time": "2021-06-01T06:46:10+00:00"
         },
         {
-            "name": "playcast/slim-callable-eventdispatcher",
+            "name": "azuracast/slim-callable-eventdispatcher",
             "version": "dev-main",
             "source": {
                 "type": "git",
-                "url": "https://github.com/PlayCast/slim-callable-eventdispatcher.git",
+                "url": "https://github.com/AzuraCast/slim-callable-eventdispatcher.git",
                 "reference": "0c1a17c81573fbdbcb65b04aea5ddf1743889e91"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PlayCast/slim-callable-eventdispatcher/zipball/0c1a17c81573fbdbcb65b04aea5ddf1743889e91",
+                "url": "https://api.github.com/repos/AzuraCast/slim-callable-eventdispatcher/zipball/0c1a17c81573fbdbcb65b04aea5ddf1743889e91",
                 "reference": "0c1a17c81573fbdbcb65b04aea5ddf1743889e91",
                 "shasum": ""
             },
@@ -483,22 +483,22 @@
                 }
             ],
             "description": "Bridge code that integrates Slim's CallableResolver and Symfony's Event Dispatcher to allow resolvable event listeners.",
-            "homepage": "https://github.com/PlayCast/slim-callable-eventdispatcher",
+            "homepage": "https://github.com/AzuraCast/slim-callable-eventdispatcher",
             "support": {
-                "issues": "https://github.com/PlayCast/slim-callable-eventdispatcher/issues",
-                "source": "https://github.com/PlayCast/slim-callable-eventdispatcher/tree/main"
+                "issues": "https://github.com/AzuraCast/slim-callable-eventdispatcher/issues",
+                "source": "https://github.com/AzuraCast/slim-callable-eventdispatcher/tree/main"
             },
             "funding": [
                 {
-                    "url": "https://github.com/PlayCast",
+                    "url": "https://github.com/AzuraCast",
                     "type": "github"
                 },
                 {
-                    "url": "https://opencollective.com/playcast",
+                    "url": "https://opencollective.com/azuracast",
                     "type": "open_collective"
                 },
                 {
-                    "url": "https://www.patreon.com/PlayCast",
+                    "url": "https://www.patreon.com/AzuraCast",
                     "type": "patreon"
                 }
             ],
@@ -14226,11 +14226,11 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "playcast/playforms": 20,
-        "playcast/flysystem-v2-extensions": 20,
-        "playcast/metadata-manager": 20,
-        "playcast/nowplaying": 20,
-        "playcast/slim-callable-eventdispatcher": 20,
+        "azuracast/azuraforms": 20,
+        "azuracast/flysystem-v2-extensions": 20,
+        "azuracast/metadata-manager": 20,
+        "azuracast/nowplaying": 20,
+        "azuracast/slim-callable-eventdispatcher": 20,
         "lstrojny/fxmlrpc": 20,
         "rlanvin/php-ip": 20,
         "supervisorphp/supervisor": 20,
