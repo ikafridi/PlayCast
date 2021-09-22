@@ -3,16 +3,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
-"Project-Id-Version: playcast\n"
+"Project-Id-Version: clientradio\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
-"X-Crowdin-Project: playcast\n"
-"X-Crowdin-Project-ID: 217396\n"
+"X-Crowdin-Project: clientradio\n"
+"X-Crowdin-Project-ID: 477189\n"
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /main/resources/locale/frontend.pot\n"
-"X-Crowdin-File-ID: 11\n"
+"X-Crowdin-File-ID: 9\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-08-22 15:51\n"
+"PO-Revision-Date: 2021-09-22 01:52\n"
 
 #: ./vue/Stations/Podcasts/ListView.vue:28
 msgid "# Episodes"
@@ -96,7 +96,7 @@ msgstr "Opcje"
 
 #: ./vue/Admin/StorageLocations.vue:18
 msgid "Adapter"
-msgstr "Adapter"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeEditModal.vue:37
 #: ./vue/Stations/Podcasts/EpisodesView.vue:21
@@ -182,7 +182,7 @@ msgstr "Zaawansowane ręczne opcje planowania AutoDJ"
 #: ./vue/Stations/Media.vue:79
 #: ./vue/Stations/Playlists/ReorderModal.vue:8
 msgid "Album"
-msgstr "Album"
+msgstr ""
 
 #: ./vue/Public/OnDemand.vue:50
 #: ./vue/Public/Player.vue:74
@@ -279,7 +279,7 @@ msgstr "Automatycznie przypisany"
 #: ./vue/Stations/Remotes.vue:20
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:12
 msgid "AutoDJ"
-msgstr "AutoDJ"
+msgstr ""
 
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:27
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:1
@@ -1267,7 +1267,7 @@ msgstr "Przerywaj inne utwory, by odtworzyć w ustalonym czasie."
 
 #: ./vue/Stations/Mounts/Form/Intro.vue:27
 msgid "Intro"
-msgstr "Intro"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/BasicInfo.vue:28
 #: ./vue/Stations/Playlists/Form/BasicInfo.vue:2
@@ -1277,7 +1277,7 @@ msgstr "Jest włączony"
 #: ./vue/Stations/Media/Form/BasicInfo.vue:48
 #: ./vue/Stations/Media/Form/BasicInfo.vue:1
 msgid "ISRC"
-msgstr "ISRC"
+msgstr ""
 
 #: ./vue/Stations/Playlists.vue:73
 #: ./vue/Stations/Playlists.vue:12
@@ -1484,7 +1484,7 @@ msgstr "Przenieś do katalogu"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:31
 msgid "MP3"
-msgstr "MP3"
+msgstr ""
 
 #: ./vue/Common/Waveform.vue:28
 #: ./vue/InlinePlayer.vue:25
@@ -1750,7 +1750,7 @@ msgstr "Odtwarzaj"
 
 #: ./vue/Stations/Podcasts/ListView.vue:27
 msgid "Podcast"
-msgstr "Podcast"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeForm/Media.vue:9
 #: ./vue/Stations/Podcasts/EpisodeForm/Media.vue:1
@@ -1841,7 +1841,7 @@ msgstr "Odśwież wiersze"
 #: ./vue/Admin/StorageLocations/Form.vue:107
 #: ./vue/Admin/StorageLocations/Form.vue:1
 msgid "Region"
-msgstr "Region"
+msgstr ""
 
 #: ./vue/Stations/Profile/FrontendPanel.vue:40
 #: ./vue/Stations/Profile/FrontendPanel.vue:28
@@ -2430,7 +2430,7 @@ msgstr "Nazwa użytkownika Streamera"
 #: ./vue/Stations/Profile/SchedulePanel.vue:17
 #: ./vue/Stations/Profile/SchedulePanel.vue:1
 msgid "Streamer/DJ"
-msgstr "Streamer/DJ"
+msgstr ""
 
 #: ./vue/Stations/Streamers.vue:6
 msgid "Streamer/DJ Accounts"
@@ -2805,7 +2805,7 @@ msgstr "Powiększenie Fali Dźwiękowej"
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:22
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:20
 msgid "Web DJ"
-msgstr "Web DJ"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeForm/BasicInfo.vue:13
 #: ./vue/Stations/Podcasts/EpisodeForm/BasicInfo.vue:1

@@ -3,16 +3,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
-"Project-Id-Version: playcast\n"
+"Project-Id-Version: clientradio\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: playcast\n"
-"X-Crowdin-Project-ID: 217396\n"
+"X-Crowdin-Project: clientradio\n"
+"X-Crowdin-Project-ID: 477189\n"
 "X-Crowdin-Language: el\n"
 "X-Crowdin-File: /main/resources/locale/frontend.pot\n"
-"X-Crowdin-File-ID: 11\n"
+"X-Crowdin-File-ID: 9\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2021-08-22 15:51\n"
+"PO-Revision-Date: 2021-09-22 01:52\n"
 
 #: ./vue/Stations/Podcasts/ListView.vue:28
 msgid "# Episodes"
@@ -273,7 +273,7 @@ msgstr "Αυτόματη Ανάθεση"
 #: ./vue/Stations/Remotes.vue:20
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:12
 msgid "AutoDJ"
-msgstr "AutoDJ"
+msgstr ""
 
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:27
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:1
@@ -1013,7 +1013,7 @@ msgstr "Εξαγωγή %{format}"
 #: ./vue/Stations/Mounts/Form/BasicInfo.vue:3
 #: ./vue/Stations/Mounts/Form/BasicInfo.vue:1
 msgid "Fallback Mount"
-msgstr "Fallback Mount"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodesView.vue:30
 msgid "File"
@@ -1271,7 +1271,7 @@ msgstr "Είναι Ενεργοποιημένο"
 #: ./vue/Stations/Media/Form/BasicInfo.vue:48
 #: ./vue/Stations/Media/Form/BasicInfo.vue:1
 msgid "ISRC"
-msgstr "ISRC"
+msgstr ""
 
 #: ./vue/Stations/Playlists.vue:73
 #: ./vue/Stations/Playlists.vue:12
@@ -1478,7 +1478,7 @@ msgstr "Μετακίνηση στον κατάλογο"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:31
 msgid "MP3"
-msgstr "MP3"
+msgstr ""
 
 #: ./vue/Common/Waveform.vue:28
 #: ./vue/InlinePlayer.vue:25
@@ -1743,7 +1743,7 @@ msgstr "Παίζει"
 
 #: ./vue/Stations/Podcasts/ListView.vue:27
 msgid "Podcast"
-msgstr "Podcast"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeForm/Media.vue:9
 #: ./vue/Stations/Podcasts/EpisodeForm/Media.vue:1
@@ -1759,7 +1759,7 @@ msgstr "Τίτλος Podcast"
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:34
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:32
 msgid "Podcasts"
-msgstr "Podcasts"
+msgstr ""
 
 #: ./vue/Admin/Branding/BrandingForm.vue:30
 msgid "Prefer System Default"
@@ -2423,7 +2423,7 @@ msgstr "Streamer Όνομα Χρήστη"
 #: ./vue/Stations/Profile/SchedulePanel.vue:17
 #: ./vue/Stations/Profile/SchedulePanel.vue:1
 msgid "Streamer/DJ"
-msgstr "Streamer/DJ"
+msgstr ""
 
 #: ./vue/Stations/Streamers.vue:6
 msgid "Streamer/DJ Accounts"
@@ -2433,7 +2433,7 @@ msgstr "Λογαριασμοί Streamer/DJ"
 #: ./vue/Stations/Profile/StreamersPanel.vue:23
 #: ./vue/Stations/Profile/StreamersPanel.vue:3
 msgid "Streamers/DJs"
-msgstr "Streamers/DJs"
+msgstr ""
 
 #: ./vue/Stations/Profile/StreamsPanel.vue:3
 msgid "Streams"
@@ -2798,7 +2798,7 @@ msgstr "Μεγέθυνση Κυματομορφής"
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:22
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:20
 msgid "Web DJ"
-msgstr "Web DJ"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeForm/BasicInfo.vue:13
 #: ./vue/Stations/Podcasts/EpisodeForm/BasicInfo.vue:1

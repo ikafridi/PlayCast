@@ -3,16 +3,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
-"Project-Id-Version: playcast\n"
+"Project-Id-Version: clientradio\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: playcast\n"
-"X-Crowdin-Project-ID: 217396\n"
+"X-Crowdin-Project: clientradio\n"
+"X-Crowdin-Project-ID: 477189\n"
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: /main/resources/locale/frontend.pot\n"
-"X-Crowdin-File-ID: 11\n"
+"X-Crowdin-File-ID: 9\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-08-22 15:51\n"
+"PO-Revision-Date: 2021-09-22 01:52\n"
 
 #: ./vue/Stations/Podcasts/ListView.vue:28
 msgid "# Episodes"
@@ -35,8 +35,8 @@ msgstr "%{name} - Copiar"
 #: ./vue/Stations/Profile/BackendPanel.vue:30
 msgid "%{numPlaylists} playlist"
 msgid_plural "%{numPlaylists} playlists"
-msgstr[0] "%{numPlaylists} playlist"
-msgstr[1] "%{numPlaylists} playlists"
+msgstr[0] ""
+msgstr[1] ""
 
 #: ./vue/Stations/Profile/BackendPanel.vue:27
 msgid "%{numSongs} uploaded song"
@@ -273,7 +273,7 @@ msgstr "Auto-atribuição"
 #: ./vue/Stations/Remotes.vue:20
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:12
 msgid "AutoDJ"
-msgstr "AutoDJ"
+msgstr ""
 
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:27
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:1
@@ -968,7 +968,7 @@ msgstr "Hora Final"
 #: ./vue/Admin/StorageLocations/Form.vue:85
 #: ./vue/Admin/StorageLocations/Form.vue:1
 msgid "Endpoint"
-msgstr "Endpoint"
+msgstr ""
 
 #: ./vue/Stations/Streamers/Form/BasicInfo.vue:70
 #: ./vue/Stations/Streamers/Form/BasicInfo.vue:2
@@ -1271,7 +1271,7 @@ msgstr "Está ativado"
 #: ./vue/Stations/Media/Form/BasicInfo.vue:48
 #: ./vue/Stations/Media/Form/BasicInfo.vue:1
 msgid "ISRC"
-msgstr "ISRC"
+msgstr ""
 
 #: ./vue/Stations/Playlists.vue:73
 #: ./vue/Stations/Playlists.vue:12
@@ -1355,7 +1355,7 @@ msgstr "Carregando..."
 
 #: ./vue/Admin/StorageLocations.vue:48
 msgid "Local"
-msgstr "Local"
+msgstr ""
 
 #: ./vue/Admin/StorageLocations/Form.vue:11
 msgid "Local Filesystem"
@@ -1478,7 +1478,7 @@ msgstr "Mover para o diretório"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:31
 msgid "MP3"
-msgstr "MP3"
+msgstr ""
 
 #: ./vue/Common/Waveform.vue:28
 #: ./vue/InlinePlayer.vue:25
@@ -1743,7 +1743,7 @@ msgstr "Reproduções"
 
 #: ./vue/Stations/Podcasts/ListView.vue:27
 msgid "Podcast"
-msgstr "Podcast"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeForm/Media.vue:9
 #: ./vue/Stations/Podcasts/EpisodeForm/Media.vue:1
@@ -1759,7 +1759,7 @@ msgstr "Título do Podcast"
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:34
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:32
 msgid "Podcasts"
-msgstr "Podcasts"
+msgstr ""
 
 #: ./vue/Admin/Branding/BrandingForm.vue:30
 msgid "Prefer System Default"
@@ -2423,7 +2423,7 @@ msgstr "Nome de usuário do streamer"
 #: ./vue/Stations/Profile/SchedulePanel.vue:17
 #: ./vue/Stations/Profile/SchedulePanel.vue:1
 msgid "Streamer/DJ"
-msgstr "Streamer/DJ"
+msgstr ""
 
 #: ./vue/Stations/Streamers.vue:6
 msgid "Streamer/DJ Accounts"
@@ -2433,7 +2433,7 @@ msgstr "Contas de streamer/DJ"
 #: ./vue/Stations/Profile/StreamersPanel.vue:23
 #: ./vue/Stations/Profile/StreamersPanel.vue:3
 msgid "Streamers/DJs"
-msgstr "Streamers/DJs"
+msgstr ""
 
 #: ./vue/Stations/Profile/StreamsPanel.vue:3
 msgid "Streams"
@@ -2786,7 +2786,7 @@ msgstr "Editor Visual Cue"
 #: ./vue/InlinePlayer.vue:20
 #: ./vue/Public/Player.vue:68
 msgid "Volume"
-msgstr "Volume"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Advanced.vue:6
 msgid "Warning"

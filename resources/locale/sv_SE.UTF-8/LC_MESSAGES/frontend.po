@@ -3,16 +3,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
-"Project-Id-Version: playcast\n"
+"Project-Id-Version: clientradio\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: playcast\n"
-"X-Crowdin-Project-ID: 217396\n"
+"X-Crowdin-Project: clientradio\n"
+"X-Crowdin-Project-ID: 477189\n"
 "X-Crowdin-Language: sv-SE\n"
 "X-Crowdin-File: /main/resources/locale/frontend.pot\n"
-"X-Crowdin-File-ID: 11\n"
+"X-Crowdin-File-ID: 9\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2021-08-22 15:51\n"
+"PO-Revision-Date: 2021-09-22 01:52\n"
 
 #: ./vue/Stations/Podcasts/ListView.vue:28
 msgid "# Episodes"
@@ -146,7 +146,7 @@ msgstr "Lägg till Streamer"
 
 #: ./vue/Dashboard.vue:18
 msgid "Administration"
-msgstr "Administration"
+msgstr ""
 
 #: ./vue/Stations/Profile/FrontendPanel.vue:20
 #: ./vue/Stations/Profile/FrontendPanel.vue:8
@@ -176,7 +176,7 @@ msgstr "Avancerade manuella AutoDJ schemaläggningsalternativ"
 #: ./vue/Stations/Media.vue:79
 #: ./vue/Stations/Playlists/ReorderModal.vue:8
 msgid "Album"
-msgstr "Album"
+msgstr ""
 
 #: ./vue/Public/OnDemand.vue:50
 #: ./vue/Public/Player.vue:74
@@ -247,7 +247,7 @@ msgstr ""
 #: ./vue/Stations/Playlists/QueueModal.vue:10
 #: ./vue/Stations/Playlists/ReorderModal.vue:7
 msgid "Artist"
-msgstr "Artist"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/Common/Artwork.vue:19
 msgid "Artwork"
@@ -273,7 +273,7 @@ msgstr "Auto-tilldelad"
 #: ./vue/Stations/Remotes.vue:20
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:12
 msgid "AutoDJ"
-msgstr "AutoDJ"
+msgstr ""
 
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:27
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:1
@@ -948,7 +948,7 @@ msgstr "Aktiverad"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:27
 msgid "Encoder"
-msgstr "Encoder"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Schedule.vue:78
 #: ./vue/Stations/Playlists/Form/Schedule.vue:1
@@ -1347,7 +1347,7 @@ msgstr ""
 #: ./vue/Stations/Profile/NowPlayingPanel.vue:80
 #: ./vue/Stations/Streamers/BroadcastsModal.vue:35
 msgid "Live"
-msgstr "Live"
+msgstr ""
 
 #: ./vue/Common/DataTable.vue:101
 msgid "Loading..."
@@ -1428,7 +1428,7 @@ msgstr "Minut i timmen att spela"
 
 #: ./vue/Public/WebDJ/MixerPanel.vue:4
 msgid "Mixer"
-msgstr "Mixer"
+msgstr ""
 
 #: ./vue/Stations/Media.vue:98
 msgid "Modified"
@@ -1478,7 +1478,7 @@ msgstr "Flytta till katalog"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:31
 msgid "MP3"
-msgstr "MP3"
+msgstr ""
 
 #: ./vue/Common/Waveform.vue:28
 #: ./vue/InlinePlayer.vue:25
@@ -1572,7 +1572,7 @@ msgstr ""
 #: ./vue/Stations/Playlists.vue:79
 #: ./vue/Stations/Playlists.vue:18
 msgid "On-Demand"
-msgstr "On-Demand"
+msgstr ""
 
 #: ./vue/Public/OnDemand.vue:10
 #: ./vue/Public/OnDemand.vue:1

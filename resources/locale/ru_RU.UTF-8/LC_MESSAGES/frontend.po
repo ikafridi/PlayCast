@@ -3,16 +3,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
-"Project-Id-Version: playcast\n"
+"Project-Id-Version: clientradio\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
-"X-Crowdin-Project: playcast\n"
-"X-Crowdin-Project-ID: 217396\n"
+"X-Crowdin-Project: clientradio\n"
+"X-Crowdin-Project-ID: 477189\n"
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /main/resources/locale/frontend.pot\n"
-"X-Crowdin-File-ID: 11\n"
+"X-Crowdin-File-ID: 9\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2021-08-22 15:51\n"
+"PO-Revision-Date: 2021-09-22 01:52\n"
 
 #: ./vue/Stations/Podcasts/ListView.vue:28
 msgid "# Episodes"
@@ -810,7 +810,7 @@ msgstr "Копировать Плейлист"
 #: ./vue/Stations/Podcasts/PodcastForm/BasicInfo.vue:55
 #: ./vue/Stations/Podcasts/PodcastForm/BasicInfo.vue:1
 msgid "E-Mail"
-msgstr "E-Mail"
+msgstr ""
 
 #: ./vue/Admin/StorageLocations.vue:24
 #: ./vue/Admin/StorageLocations.vue:3
@@ -1277,7 +1277,7 @@ msgstr "Включен"
 #: ./vue/Stations/Media/Form/BasicInfo.vue:48
 #: ./vue/Stations/Media/Form/BasicInfo.vue:1
 msgid "ISRC"
-msgstr "ISRC"
+msgstr ""
 
 #: ./vue/Stations/Playlists.vue:73
 #: ./vue/Stations/Playlists.vue:12
@@ -1484,7 +1484,7 @@ msgstr "Перенести в папку"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:31
 msgid "MP3"
-msgstr "MP3"
+msgstr ""
 
 #: ./vue/Common/Waveform.vue:28
 #: ./vue/InlinePlayer.vue:25

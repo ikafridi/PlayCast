@@ -3,16 +3,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
-"Project-Id-Version: playcast\n"
+"Project-Id-Version: clientradio\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: playcast\n"
-"X-Crowdin-Project-ID: 217396\n"
+"X-Crowdin-Project: clientradio\n"
+"X-Crowdin-Project-ID: 477189\n"
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /main/resources/locale/frontend.pot\n"
-"X-Crowdin-File-ID: 11\n"
+"X-Crowdin-File-ID: 9\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-08-22 15:51\n"
+"PO-Revision-Date: 2021-09-22 01:51\n"
 
 #: ./vue/Stations/Podcasts/ListView.vue:28
 msgid "# Episodes"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ./vue/Stations/Playlists.vue:29
 msgid "# Songs"
-msgstr "# Songs"
+msgstr ""
 
 #: ./vue/Stations/Profile/NowPlayingPanel.vue:30
 msgid "%{listeners} Listener"
@@ -62,7 +62,7 @@ msgstr "Eine Playlist, die der Station befiehlt, von einer fremden URL zu spiele
 #: ./vue/Admin/StorageLocations/Form.vue:63
 #: ./vue/Admin/StorageLocations/Form.vue:1
 msgid "Access Key ID"
-msgstr "Access Key ID"
+msgstr ""
 
 #: ./vue/Stations/Streamers/Form/BasicInfo.vue:59
 #: ./vue/Stations/Streamers/Form/BasicInfo.vue:2
@@ -90,7 +90,7 @@ msgstr "Aktionen"
 
 #: ./vue/Admin/StorageLocations.vue:18
 msgid "Adapter"
-msgstr "Adapter"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeEditModal.vue:37
 #: ./vue/Stations/Podcasts/EpisodesView.vue:21
@@ -146,7 +146,7 @@ msgstr "Streamer hinzufügen"
 
 #: ./vue/Dashboard.vue:18
 msgid "Administration"
-msgstr "Administration"
+msgstr ""
 
 #: ./vue/Stations/Profile/FrontendPanel.vue:20
 #: ./vue/Stations/Profile/FrontendPanel.vue:8
@@ -176,7 +176,7 @@ msgstr "Erweiterte manuelle AutoDJ-Planungsoptionen"
 #: ./vue/Stations/Media.vue:79
 #: ./vue/Stations/Playlists/ReorderModal.vue:8
 msgid "Album"
-msgstr "Album"
+msgstr ""
 
 #: ./vue/Public/OnDemand.vue:50
 #: ./vue/Public/Player.vue:74
@@ -273,14 +273,14 @@ msgstr "Automatisch zugewiesen"
 #: ./vue/Stations/Remotes.vue:20
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:12
 msgid "AutoDJ"
-msgstr "AutoDJ"
+msgstr ""
 
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:27
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:1
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:30
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:1
 msgid "AutoDJ Bitrate (kbps)"
-msgstr "AutoDJ Bitrate (kbps)"
+msgstr ""
 
 #: ./vue/Stations/Profile/BackendNonePanel.vue:3
 msgid "AutoDJ Disabled"
@@ -291,7 +291,7 @@ msgstr "AutoDJ deaktiviert"
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:21
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:1
 msgid "AutoDJ Format"
-msgstr "AutoDJ Format"
+msgstr ""
 
 #: ./vue/Stations/Profile/BackendNonePanel.vue:6
 msgid "AutoDJ has been disabled for this station. No music will automatically be played when a source is not live."
@@ -325,7 +325,7 @@ msgstr "Zurück"
 
 #: ./vue/Admin/StorageLocations.vue:34
 msgid "Backups"
-msgstr "Backups"
+msgstr ""
 
 #: ./vue/Admin/Branding/BrandingForm.vue:17
 #: ./vue/Admin/Branding/BrandingForm.vue:1
@@ -378,7 +378,7 @@ msgstr ""
 #: ./vue/Admin/StorageLocations/Form.vue:96
 #: ./vue/Admin/StorageLocations/Form.vue:1
 msgid "Bucket Name"
-msgstr "Bucket Name"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/PodcastForm/BasicInfo.vue:67
 #: ./vue/Stations/Podcasts/PodcastForm/BasicInfo.vue:1
@@ -774,7 +774,7 @@ msgstr "Nach unten"
 #: ./vue/Stations/Podcasts/EpisodeForm/Media.vue:23
 #: ./vue/Stations/Streamers/BroadcastsModal.vue:68
 msgid "Download"
-msgstr "Download"
+msgstr ""
 
 #: ./vue/Stations/Profile/StreamsPanel.vue:78
 msgid "Download M3U"
@@ -948,7 +948,7 @@ msgstr "Aktiviert"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:27
 msgid "Encoder"
-msgstr "Encoder"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Schedule.vue:78
 #: ./vue/Stations/Playlists/Form/Schedule.vue:1
@@ -1013,7 +1013,7 @@ msgstr "Exportformat"
 #: ./vue/Stations/Mounts/Form/BasicInfo.vue:3
 #: ./vue/Stations/Mounts/Form/BasicInfo.vue:1
 msgid "Fallback Mount"
-msgstr "Fallback Mount"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodesView.vue:30
 msgid "File"
@@ -1066,7 +1066,7 @@ msgstr "Allgemeine Rotation"
 #: ./vue/Public/Requests.vue:37
 #: ./vue/Stations/Media.vue:80
 msgid "Genre"
-msgstr "Genre"
+msgstr ""
 
 #: ./vue/Admin/Branding/BrandingForm.vue:35
 #: ./vue/Admin/Branding/BrandingForm.vue:2
@@ -1271,7 +1271,7 @@ msgstr "Ist Aktiviert"
 #: ./vue/Stations/Media/Form/BasicInfo.vue:48
 #: ./vue/Stations/Media/Form/BasicInfo.vue:1
 msgid "ISRC"
-msgstr "ISRC"
+msgstr ""
 
 #: ./vue/Stations/Playlists.vue:73
 #: ./vue/Stations/Playlists.vue:12
@@ -1347,7 +1347,7 @@ msgstr "Zuhörer pro Sender"
 #: ./vue/Stations/Profile/NowPlayingPanel.vue:80
 #: ./vue/Stations/Streamers/BroadcastsModal.vue:35
 msgid "Live"
-msgstr "Live"
+msgstr ""
 
 #: ./vue/Common/DataTable.vue:101
 msgid "Loading..."
@@ -1373,7 +1373,7 @@ msgstr "Log Viewer"
 #: ./vue/Stations/Queue.vue:11
 #: ./vue/Stations/Queue.vue:3
 msgid "Logs"
-msgstr "Logs"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Schedule.vue:91
 #: ./vue/Stations/Playlists/Form/Schedule.vue:2
@@ -1428,7 +1428,7 @@ msgstr "Minute der Stunde zu der gespielt werden soll"
 
 #: ./vue/Public/WebDJ/MixerPanel.vue:4
 msgid "Mixer"
-msgstr "Mixer"
+msgstr ""
 
 #: ./vue/Stations/Media.vue:98
 msgid "Modified"
@@ -1478,7 +1478,7 @@ msgstr "In Verzeichnis verschieben"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:31
 msgid "MP3"
-msgstr "MP3"
+msgstr ""
 
 #: ./vue/Common/Waveform.vue:28
 #: ./vue/InlinePlayer.vue:25
@@ -1495,7 +1495,7 @@ msgstr "Mein Account"
 #: ./vue/Stations/Mounts.vue:20
 #: ./vue/Stations/Remotes.vue:19
 msgid "Name"
-msgstr "Name"
+msgstr ""
 
 #: ./vue/Stations/Media/NewDirectoryModal.vue:25
 msgid "New Directory"
@@ -1572,7 +1572,7 @@ msgstr "Auf Sendung"
 #: ./vue/Stations/Playlists.vue:79
 #: ./vue/Stations/Playlists.vue:18
 msgid "On-Demand"
-msgstr "On-Demand"
+msgstr ""
 
 #: ./vue/Public/OnDemand.vue:10
 #: ./vue/Public/OnDemand.vue:1
@@ -1658,7 +1658,7 @@ msgstr "Einmal pro Stunde zu der angegebenen Minute spielen."
 #: ./vue/Stations/Media.vue:151
 #: ./vue/Stations/Streamers/BroadcastsModal.vue:65
 msgid "Play/Pause"
-msgstr "Play/Pause"
+msgstr ""
 
 #: ./vue/Stations/Playlists.vue:47
 #: ./vue/Stations/Playlists/QueueModal.vue:15
@@ -1759,7 +1759,7 @@ msgstr ""
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:34
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:32
 msgid "Podcasts"
-msgstr "Podcasts"
+msgstr ""
 
 #: ./vue/Admin/Branding/BrandingForm.vue:30
 msgid "Prefer System Default"
@@ -1825,7 +1825,7 @@ msgstr "Zufällig"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:35
 msgid "Raw"
-msgstr "Raw"
+msgstr ""
 
 #: ./vue/Common/DataTable.vue:77
 msgid "Refresh rows"
@@ -1834,7 +1834,7 @@ msgstr "Zeilen aktualisieren"
 #: ./vue/Admin/StorageLocations/Form.vue:107
 #: ./vue/Admin/StorageLocations/Form.vue:1
 msgid "Region"
-msgstr "Region"
+msgstr ""
 
 #: ./vue/Stations/Profile/FrontendPanel.vue:40
 #: ./vue/Stations/Profile/FrontendPanel.vue:28
@@ -1844,7 +1844,7 @@ msgstr "Relay Passwort"
 #: ./vue/Stations/Mounts/Form/BasicInfo.vue:48
 #: ./vue/Stations/Mounts/Form/BasicInfo.vue:1
 msgid "Relay Stream URL"
-msgstr "Relay Stream URL"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Source.vue:118
 #: ./vue/Stations/Playlists/Form/Source.vue:1
@@ -1869,17 +1869,17 @@ msgstr "Remote Station Administrator Passwort"
 #: ./vue/Stations/Remotes/Form/BasicInfo.vue:33
 #: ./vue/Stations/Remotes/Form/BasicInfo.vue:1
 msgid "Remote Station Listening Mountpoint/SID"
-msgstr "Remote Station Listening Mountpoint/SID"
+msgstr ""
 
 #: ./vue/Stations/Remotes/Form/BasicInfo.vue:24
 #: ./vue/Stations/Remotes/Form/BasicInfo.vue:1
 msgid "Remote Station Listening URL"
-msgstr "Remote Station Listening URL"
+msgstr ""
 
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:48
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:1
 msgid "Remote Station Source Mountpoint/SID"
-msgstr "Remote Station Source Mountpoint/SID"
+msgstr ""
 
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:66
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:1
@@ -1889,7 +1889,7 @@ msgstr "Remote Station Source Passwort"
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:39
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:1
 msgid "Remote Station Source Port"
-msgstr "Remote Station Source Port"
+msgstr ""
 
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:57
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:1
@@ -1923,7 +1923,7 @@ msgstr "Remote-URL-Typ"
 #: ./vue/Admin/StorageLocations/Form.vue:17
 #: ./vue/Admin/StorageLocations/Form.vue:134
 msgid "Remote: Dropbox"
-msgstr "Remote: Dropbox"
+msgstr ""
 
 #: ./vue/Admin/StorageLocations.vue:51
 #: ./vue/Admin/StorageLocations/Form.vue:14
@@ -2437,7 +2437,7 @@ msgstr "Live-Streamer/DJs"
 
 #: ./vue/Stations/Profile/StreamsPanel.vue:3
 msgid "Streams"
-msgstr "Streams"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Schedule.vue:22
 #: ./vue/Stations/Streamers/Form/Schedule.vue:22
@@ -2798,7 +2798,7 @@ msgstr "Waveform-Zoom"
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:22
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:20
 msgid "Web DJ"
-msgstr "Web DJ"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeForm/BasicInfo.vue:13
 #: ./vue/Stations/Podcasts/EpisodeForm/BasicInfo.vue:1

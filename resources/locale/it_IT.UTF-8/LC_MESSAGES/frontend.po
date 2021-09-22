@@ -3,16 +3,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
-"Project-Id-Version: playcast\n"
+"Project-Id-Version: clientradio\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: playcast\n"
-"X-Crowdin-Project-ID: 217396\n"
+"X-Crowdin-Project: clientradio\n"
+"X-Crowdin-Project-ID: 477189\n"
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /main/resources/locale/frontend.pot\n"
-"X-Crowdin-File-ID: 11\n"
+"X-Crowdin-File-ID: 9\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-22 15:51\n"
+"PO-Revision-Date: 2021-09-22 01:52\n"
 
 #: ./vue/Stations/Podcasts/ListView.vue:28
 msgid "# Episodes"
@@ -35,7 +35,7 @@ msgstr ""
 #: ./vue/Stations/Profile/BackendPanel.vue:30
 msgid "%{numPlaylists} playlist"
 msgid_plural "%{numPlaylists} playlists"
-msgstr[0] "%{numPlaylists} playlist"
+msgstr[0] ""
 msgstr[1] "%{numPlaylists} playlist"
 
 #: ./vue/Stations/Profile/BackendPanel.vue:27
@@ -176,7 +176,7 @@ msgstr ""
 #: ./vue/Stations/Media.vue:79
 #: ./vue/Stations/Playlists/ReorderModal.vue:8
 msgid "Album"
-msgstr "Album"
+msgstr ""
 
 #: ./vue/Public/OnDemand.vue:50
 #: ./vue/Public/Player.vue:74
@@ -948,7 +948,7 @@ msgstr "Abilitato"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:27
 msgid "Encoder"
-msgstr "Encoder"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Schedule.vue:78
 #: ./vue/Stations/Playlists/Form/Schedule.vue:1
@@ -1271,7 +1271,7 @@ msgstr "È Abilitato"
 #: ./vue/Stations/Media/Form/BasicInfo.vue:48
 #: ./vue/Stations/Media/Form/BasicInfo.vue:1
 msgid "ISRC"
-msgstr "ISRC"
+msgstr ""
 
 #: ./vue/Stations/Playlists.vue:73
 #: ./vue/Stations/Playlists.vue:12
@@ -1428,7 +1428,7 @@ msgstr ""
 
 #: ./vue/Public/WebDJ/MixerPanel.vue:4
 msgid "Mixer"
-msgstr "Mixer"
+msgstr ""
 
 #: ./vue/Stations/Media.vue:98
 msgid "Modified"
@@ -1478,7 +1478,7 @@ msgstr "Sposta nella cartella"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:31
 msgid "MP3"
-msgstr "MP3"
+msgstr ""
 
 #: ./vue/Common/Waveform.vue:28
 #: ./vue/InlinePlayer.vue:25
@@ -1626,7 +1626,7 @@ msgstr ""
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:24
 msgid "Password"
-msgstr "Password"
+msgstr ""
 
 #: ./vue/Admin/StorageLocations/Form.vue:24
 #: ./vue/Admin/StorageLocations/Form.vue:1
@@ -1636,7 +1636,7 @@ msgstr ""
 #: ./vue/Public/Player.vue:59
 #: ./vue/Stations/Media/Form/WaveformEditor.vue:13
 msgid "Play"
-msgstr "Play"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/BasicInfo.vue:71
 #: ./vue/Stations/Playlists/Form/BasicInfo.vue:12
@@ -1677,7 +1677,7 @@ msgstr ""
 #: ./vue/Stations/Profile/SchedulePanel.vue:14
 #: ./vue/Stations/Profile/SchedulePanel.vue:1
 msgid "Playlist"
-msgstr "Playlist"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Source.vue:110
 #: ./vue/Stations/Playlists/Form/Source.vue:6
@@ -1686,11 +1686,11 @@ msgstr ""
 
 #: ./vue/Public/WebDJ/PlaylistPanel.vue:26
 msgid "Playlist 1"
-msgstr "Playlist 1"
+msgstr ""
 
 #: ./vue/Public/WebDJ/PlaylistPanel.vue:27
 msgid "Playlist 2"
-msgstr "Playlist 2"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/BasicInfo.vue:6
 #: ./vue/Stations/Playlists/Form/BasicInfo.vue:1
@@ -1718,7 +1718,7 @@ msgstr ""
 #: ./vue/Stations/Queue.vue:38
 #: ./vue/Stations/Queue.vue:5
 msgid "Playlist:"
-msgstr "Playlist:"
+msgstr ""
 
 #: ./vue/Stations/Media.vue:111
 #: ./vue/Stations/Media/Form/Playlists.vue:13
@@ -1825,7 +1825,7 @@ msgstr ""
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:35
 msgid "Raw"
-msgstr "Raw"
+msgstr ""
 
 #: ./vue/Common/DataTable.vue:77
 msgid "Refresh rows"
@@ -2785,7 +2785,7 @@ msgstr ""
 #: ./vue/InlinePlayer.vue:20
 #: ./vue/Public/Player.vue:68
 msgid "Volume"
-msgstr "Volume"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Advanced.vue:6
 msgid "Warning"
@@ -2798,7 +2798,7 @@ msgstr ""
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:22
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:20
 msgid "Web DJ"
-msgstr "Web DJ"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeForm/BasicInfo.vue:13
 #: ./vue/Stations/Podcasts/EpisodeForm/BasicInfo.vue:1

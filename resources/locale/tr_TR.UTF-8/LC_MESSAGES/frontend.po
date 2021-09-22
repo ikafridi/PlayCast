@@ -3,16 +3,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
-"Project-Id-Version: playcast\n"
+"Project-Id-Version: clientradio\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: playcast\n"
-"X-Crowdin-Project-ID: 217396\n"
+"X-Crowdin-Project: clientradio\n"
+"X-Crowdin-Project-ID: 477189\n"
 "X-Crowdin-Language: tr\n"
 "X-Crowdin-File: /main/resources/locale/frontend.pot\n"
-"X-Crowdin-File-ID: 11\n"
+"X-Crowdin-File-ID: 9\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2021-08-22 15:51\n"
+"PO-Revision-Date: 2021-09-22 01:52\n"
 
 #: ./vue/Stations/Podcasts/ListView.vue:28
 msgid "# Episodes"
@@ -203,7 +203,7 @@ msgstr "Çalma Listesinde İstekleri Etkinleştir"
 #: ./vue/Stations/Media/Form/AdvancedSettings.vue:14
 #: ./vue/Stations/Media/Form/AdvancedSettings.vue:1
 msgid "Amplify: Amplification (dB)"
-msgstr "Amplify: Amplification (dB)"
+msgstr ""
 
 #: ./vue/Admin/Branding/BrandingForm.vue:68
 #: ./vue/Admin/Branding/BrandingForm.vue:102
@@ -273,14 +273,14 @@ msgstr "Otomatik Atanmış"
 #: ./vue/Stations/Remotes.vue:20
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:12
 msgid "AutoDJ"
-msgstr "AutoDJ"
+msgstr ""
 
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:27
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:1
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:30
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:1
 msgid "AutoDJ Bitrate (kbps)"
-msgstr "AutoDJ Bitrate (kbps)"
+msgstr ""
 
 #: ./vue/Stations/Profile/BackendNonePanel.vue:3
 msgid "AutoDJ Disabled"
@@ -948,7 +948,7 @@ msgstr "Açık"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:27
 msgid "Encoder"
-msgstr "Encoder"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Schedule.vue:78
 #: ./vue/Stations/Playlists/Form/Schedule.vue:1
@@ -1013,7 +1013,7 @@ msgstr "Dışa Aktar %{format}"
 #: ./vue/Stations/Mounts/Form/BasicInfo.vue:3
 #: ./vue/Stations/Mounts/Form/BasicInfo.vue:1
 msgid "Fallback Mount"
-msgstr "Fallback Mount"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodesView.vue:30
 msgid "File"
@@ -1271,7 +1271,7 @@ msgstr "Etkinleştir"
 #: ./vue/Stations/Media/Form/BasicInfo.vue:48
 #: ./vue/Stations/Media/Form/BasicInfo.vue:1
 msgid "ISRC"
-msgstr "ISRC"
+msgstr ""
 
 #: ./vue/Stations/Playlists.vue:73
 #: ./vue/Stations/Playlists.vue:12
@@ -1428,7 +1428,7 @@ msgstr "Saatin Hangi Dakikasında Çalınsın?"
 
 #: ./vue/Public/WebDJ/MixerPanel.vue:4
 msgid "Mixer"
-msgstr "Mixer"
+msgstr ""
 
 #: ./vue/Stations/Media.vue:98
 msgid "Modified"
@@ -1478,7 +1478,7 @@ msgstr "Dizine Taşı"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:31
 msgid "MP3"
-msgstr "MP3"
+msgstr ""
 
 #: ./vue/Common/Waveform.vue:28
 #: ./vue/InlinePlayer.vue:25
@@ -1743,7 +1743,7 @@ msgstr "Oynatılma"
 
 #: ./vue/Stations/Podcasts/ListView.vue:27
 msgid "Podcast"
-msgstr "Podcast"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeForm/Media.vue:9
 #: ./vue/Stations/Podcasts/EpisodeForm/Media.vue:1
@@ -1759,7 +1759,7 @@ msgstr "Podcast Başlığı"
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:34
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:32
 msgid "Podcasts"
-msgstr "Podcasts"
+msgstr ""
 
 #: ./vue/Admin/Branding/BrandingForm.vue:30
 msgid "Prefer System Default"
@@ -2009,7 +2009,7 @@ msgstr "Çalışıyor"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:40
 msgid "Sample Rate"
-msgstr "Sample Rate"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Schedule.vue:21
 #: ./vue/Stations/Streamers/Form/Schedule.vue:21
@@ -2798,7 +2798,7 @@ msgstr "Dalga Formu Yakınlaştırma"
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:22
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:20
 msgid "Web DJ"
-msgstr "Web DJ"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeForm/BasicInfo.vue:13
 #: ./vue/Stations/Podcasts/EpisodeForm/BasicInfo.vue:1
