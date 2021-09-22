@@ -1,0 +1,19 @@
+---
+- name: Install cron-related packages
+  apt:
+    name: "{{ packages }}"
+    state: latest
+  vars:
+    packages:
+      - cron
+      - tmpreaper
+
+- name: Generate Cron Template
+  template: src=playcast_cron.j2 dest="{{ tmp_base }}/playcast_cron" force=true
+
+- name: Install Cron file
+  shell: "crontab -u playcast {{ tmp_base }}/playcast_cron"
+  notify: restart cron
+
+- name: Clean up temp Cron file
+  file: path="{{ tmp_base }}/playcast_cron" state=absent

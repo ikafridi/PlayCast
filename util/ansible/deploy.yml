@@ -1,0 +1,36 @@
+---
+- hosts: all
+  become: true
+  vars:
+    util_base : "{{ playbook_dir | dirname }}"
+    www_base : "{{ util_base | dirname }}"
+    app_base : "{{ www_base | dirname }}"
+    tmp_base : "{{ app_base }}/www_tmp"
+    app_env : "production"
+    update_mode : false
+
+    dev_playcast_user_password : "playcast"
+    dev_mysql_user_password : "playcast"
+
+  environment :
+    DEBIAN_FRONTEND : noninteractive
+
+  roles :
+    - init
+    - playcast-user
+    - playcast-config
+    - playcast-radio
+    - supervisord
+    - nginx
+    - php
+    - redis
+    - beanstalkd
+    - mariadb
+    - playcast-db-install
+    - ufw
+    - dbip
+    - composer
+    - services
+    - playcast-build
+    - playcast-setup
+    - playcast-cron

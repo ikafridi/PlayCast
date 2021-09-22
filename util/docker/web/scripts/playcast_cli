@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+if [ `whoami` != 'playcast' ]; then
+    echo 'This script must be run as the "playcast" user. Rerunning...'
+    setuser playcast playcast_cli "$@"
+    exit $?
+fi
+
+cd /var/playcast/www
+php bin/console "$@"

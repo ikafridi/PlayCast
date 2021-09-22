@@ -1,0 +1,11 @@
+version: '2.2'
+
+services:
+  web:
+    volumes:
+      - /var/playcast/stations:/var/playcast/stations
+      - /var/playcast/backups:/var/playcast/backups
+
+  stations:
+    volumes:
+      - /var/playcast/stations:/var/playcast/stations

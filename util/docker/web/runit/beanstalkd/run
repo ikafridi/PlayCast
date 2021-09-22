@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo 'Spinning up Beanstalkd process...'
+
+setuser playcast beanstalkd -p 11300

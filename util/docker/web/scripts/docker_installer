@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+cd /var/playcast/www
+php bin/installer "$@"

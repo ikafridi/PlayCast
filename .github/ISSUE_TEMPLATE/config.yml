@@ -1,0 +1,22 @@
+blank_issues_enabled : false
+
+contact_links :
+  - name : PlayCast Discussion Page
+    url : https://github.com/ikafridi/PlayCast/discussions
+    about : Need help with something that isnt a bug? Ask our friendly community.
+
+  - name : PlayCast Help Page
+    url : https://docs.playcast.com/en/user-guide/troubleshooting
+    about : Check the PlayCast help page for solutions to common problems.
+
+  - name : New Feature Suggestion
+    url : https://features.playcast.com
+    about : Submit an idea for a new feature via our FeatureUpvote site.
+
+  - name : Submit New Translations
+    url : https://translate.playcast.com
+    about : Submit and manage translations for the PlayCast application.
+
+  - name : Join PlayCast Discord
+    url : https://discord.gg/playcast
+    about : Join the Discord community for help and support from other station owners.

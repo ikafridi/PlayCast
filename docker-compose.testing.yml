@@ -1,0 +1,12 @@
+version : '2.2'
+
+services :
+  web :
+    build :
+      context : .
+    environment :
+      APPLICATION_ENV : 'testing'
+      LOG_LEVEL : 'debug'
+    volumes :
+      - ./vendor:/var/playcast/www/vendor
+      - .:/var/playcast/www

@@ -1,0 +1,39 @@
+services :
+  nginx_proxy :
+    build :
+      context : ../docker-playcast-nginx-proxy
+    volumes :
+      - ./util/local_ssl:/etc/nginx/certs
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+
+  nginx_proxy_letsencrypt :
+    build :
+      context : ../docker-playcast-nginx-proxy-letsencrypt
+    volumes :
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+
+  web :
+    build :
+      context : .
+    volumes :
+      - ./util/local_ssl:/etc/nginx/certs:ro
+      - ./vendor:/var/playcast/www/vendor
+      - .:/var/playcast/www
+
+  mariadb :
+    build :
+      context : ../docker-playcast-db
+    ports :
+      - "127.0.0.1:3306:3306"
+
+  redis :
+    build :
+      context : ../docker-playcast-redis
+    ports :
+      - "127.0.0.1:6379:6379"
+
+  stations :
+    build :
+      context : ../docker-playcast-radio
+    volumes :
+      - ./util/local_ssl:/etc/nginx/certs
