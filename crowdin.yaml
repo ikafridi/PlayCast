@@ -1,6 +1,6 @@
 base_url: "https://crowdin.com"
 project_id_env: 477189
-api_token_env: 8b7a9ac903ecbc6ee42889d0b69b5546
+api_token_env: 3a1f3cfcdb6eac3a26f31ecdbb9ba0896c0a9bdbab5bc99d887e4ef6defafe9d54c2ff42ce43575b
 preserve_hierarchy: true
 
 files:
