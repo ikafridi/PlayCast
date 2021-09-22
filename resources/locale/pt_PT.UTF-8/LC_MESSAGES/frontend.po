@@ -3,16 +3,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
-"Project-Id-Version: playcast\n"
+"Project-Id-Version: clientradio\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: playcast\n"
-"X-Crowdin-Project-ID: 217396\n"
+"X-Crowdin-Project: clientradio\n"
+"X-Crowdin-Project-ID: 477189\n"
 "X-Crowdin-Language: pt-PT\n"
 "X-Crowdin-File: /main/resources/locale/frontend.pot\n"
-"X-Crowdin-File-ID: 11\n"
+"X-Crowdin-File-ID: 9\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2021-08-22 15:51\n"
+"PO-Revision-Date: 2021-09-22 01:52\n"
 
 #: ./vue/Stations/Podcasts/ListView.vue:28
 msgid "# Episodes"
@@ -273,7 +273,7 @@ msgstr "Auto-Atribuído"
 #: ./vue/Stations/Remotes.vue:20
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:12
 msgid "AutoDJ"
-msgstr "AutoDJ"
+msgstr ""
 
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:27
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:1
@@ -500,7 +500,7 @@ msgstr "Criar Directório"
 #: ./vue/Public/WebDJ/PlaylistPanel.vue:30
 #: ./vue/Public/WebDJ/SettingsPanel.vue:133
 msgid "Cue"
-msgstr "Cue"
+msgstr ""
 
 #: ./vue/Stations/Queue.vue:19
 msgid "Cued On"
@@ -1478,7 +1478,7 @@ msgstr "Mover para Directório"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:31
 msgid "MP3"
-msgstr "MP3"
+msgstr ""
 
 #: ./vue/Common/Waveform.vue:28
 #: ./vue/InlinePlayer.vue:25
@@ -1572,7 +1572,7 @@ msgstr ""
 #: ./vue/Stations/Playlists.vue:79
 #: ./vue/Stations/Playlists.vue:18
 msgid "On-Demand"
-msgstr "On-Demand"
+msgstr ""
 
 #: ./vue/Public/OnDemand.vue:10
 #: ./vue/Public/OnDemand.vue:1
@@ -1825,7 +1825,7 @@ msgstr ""
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:35
 msgid "Raw"
-msgstr "Raw"
+msgstr ""
 
 #: ./vue/Common/DataTable.vue:77
 msgid "Refresh rows"
@@ -2785,7 +2785,7 @@ msgstr "Editor de Cue Visual"
 #: ./vue/InlinePlayer.vue:20
 #: ./vue/Public/Player.vue:68
 msgid "Volume"
-msgstr "Volume"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Advanced.vue:6
 msgid "Warning"
