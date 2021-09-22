@@ -26,7 +26,7 @@ __dotenv_cmd=.env
     [[ "$__dotenv" =~ ^(.*(^|$'\n'))([ ]*)"$1="(.*)$ ]] &&
     REPLY=${BASH_REMATCH[4]%%$'\n'*} && REPLY=${REPLY%"${REPLY##*[![:space:]]}"}
 }
-
+  
 .env.parse() {
   local line key
   while IFS= read -r line; do
