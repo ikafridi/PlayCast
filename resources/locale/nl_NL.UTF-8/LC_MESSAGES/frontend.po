@@ -3,16 +3,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: easygettext\n"
-"Project-Id-Version: playcast\n"
+"Project-Id-Version: clientradio\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: playcast\n"
-"X-Crowdin-Project-ID: 217396\n"
+"X-Crowdin-Project: clientradio\n"
+"X-Crowdin-Project-ID: 477189\n"
 "X-Crowdin-Language: nl\n"
 "X-Crowdin-File: /main/resources/locale/frontend.pot\n"
-"X-Crowdin-File-ID: 11\n"
+"X-Crowdin-File-ID: 9\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2021-08-22 15:51\n"
+"PO-Revision-Date: 2021-09-22 01:52\n"
 
 #: ./vue/Stations/Podcasts/ListView.vue:28
 msgid "# Episodes"
@@ -62,7 +62,7 @@ msgstr "Een afspeellijst afspelen vanaf een andere server (Externe URL)"
 #: ./vue/Admin/StorageLocations/Form.vue:63
 #: ./vue/Admin/StorageLocations/Form.vue:1
 msgid "Access Key ID"
-msgstr "Access Key ID"
+msgstr ""
 
 #: ./vue/Stations/Streamers/Form/BasicInfo.vue:59
 #: ./vue/Stations/Streamers/Form/BasicInfo.vue:2
@@ -90,7 +90,7 @@ msgstr "Acties"
 
 #: ./vue/Admin/StorageLocations.vue:18
 msgid "Adapter"
-msgstr "Adapter"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeEditModal.vue:37
 #: ./vue/Stations/Podcasts/EpisodesView.vue:21
@@ -176,7 +176,7 @@ msgstr "Geavanceerde handmatige AutoDJ planning instellingen"
 #: ./vue/Stations/Media.vue:79
 #: ./vue/Stations/Playlists/ReorderModal.vue:8
 msgid "Album"
-msgstr "Album"
+msgstr ""
 
 #: ./vue/Public/OnDemand.vue:50
 #: ./vue/Public/Player.vue:74
@@ -273,7 +273,7 @@ msgstr "Automatisch toegewezen"
 #: ./vue/Stations/Remotes.vue:20
 #: ./vue/Stations/Remotes/Form/AutoDj.vue:12
 msgid "AutoDJ"
-msgstr "AutoDJ"
+msgstr ""
 
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:27
 #: ./vue/Stations/Mounts/Form/AutoDj.vue:1
@@ -351,7 +351,7 @@ msgstr ""
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:56
 msgid "Bit Rate"
-msgstr "Bit Rate"
+msgstr ""
 
 #: ./vue/Admin/Branding/BrandingForm.vue:5
 msgid "Branding Settings"
@@ -774,7 +774,7 @@ msgstr "Omlaag"
 #: ./vue/Stations/Podcasts/EpisodeForm/Media.vue:23
 #: ./vue/Stations/Streamers/BroadcastsModal.vue:68
 msgid "Download"
-msgstr "Download"
+msgstr ""
 
 #: ./vue/Stations/Profile/StreamsPanel.vue:78
 msgid "Download M3U"
@@ -948,7 +948,7 @@ msgstr "Ingeschakeld"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:27
 msgid "Encoder"
-msgstr "Encoder"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Schedule.vue:78
 #: ./vue/Stations/Playlists/Form/Schedule.vue:1
@@ -1066,7 +1066,7 @@ msgstr "Algemene Rotatie"
 #: ./vue/Public/Requests.vue:37
 #: ./vue/Stations/Media.vue:80
 msgid "Genre"
-msgstr "Genre"
+msgstr ""
 
 #: ./vue/Admin/Branding/BrandingForm.vue:35
 #: ./vue/Admin/Branding/BrandingForm.vue:2
@@ -1271,7 +1271,7 @@ msgstr "Is ingeschakeld"
 #: ./vue/Stations/Media/Form/BasicInfo.vue:48
 #: ./vue/Stations/Media/Form/BasicInfo.vue:1
 msgid "ISRC"
-msgstr "ISRC"
+msgstr ""
 
 #: ./vue/Stations/Playlists.vue:73
 #: ./vue/Stations/Playlists.vue:12
@@ -1347,7 +1347,7 @@ msgstr ""
 #: ./vue/Stations/Profile/NowPlayingPanel.vue:80
 #: ./vue/Stations/Streamers/BroadcastsModal.vue:35
 msgid "Live"
-msgstr "Live"
+msgstr ""
 
 #: ./vue/Common/DataTable.vue:101
 msgid "Loading..."
@@ -1478,7 +1478,7 @@ msgstr "Verplaats naar map"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:31
 msgid "MP3"
-msgstr "MP3"
+msgstr ""
 
 #: ./vue/Common/Waveform.vue:28
 #: ./vue/InlinePlayer.vue:25
@@ -1567,12 +1567,12 @@ msgstr "Aantal nummers tussen spelen"
 
 #: ./vue/Stations/Profile/NowPlayingPanel.vue:4
 msgid "On the Air"
-msgstr "On the Air"
+msgstr ""
 
 #: ./vue/Stations/Playlists.vue:79
 #: ./vue/Stations/Playlists.vue:18
 msgid "On-Demand"
-msgstr "On-Demand"
+msgstr ""
 
 #: ./vue/Public/OnDemand.vue:10
 #: ./vue/Public/OnDemand.vue:1
@@ -1580,7 +1580,7 @@ msgstr "On-Demand"
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:28
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:26
 msgid "On-Demand Media"
-msgstr "On-Demand Media"
+msgstr ""
 
 #: ./vue/Stations/Playlists.vue:91
 msgid "Once per %{minutes} Minutes"
@@ -1825,7 +1825,7 @@ msgstr "Willekeurig"
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:35
 msgid "Raw"
-msgstr "Raw"
+msgstr ""
 
 #: ./vue/Common/DataTable.vue:77
 msgid "Refresh rows"
@@ -2213,7 +2213,7 @@ msgstr "Toon op openbare pagina's"
 #: ./vue/Stations/Playlists/Form/Source.vue:42
 #: ./vue/Stations/Playlists/Form/Source.vue:3
 msgid "Shuffled"
-msgstr "Shuffled"
+msgstr ""
 
 #: ./vue/Stations/Media.vue:95
 #: ./vue/Stations/Streamers/BroadcastsModal.vue:42
@@ -2319,7 +2319,7 @@ msgstr "Standaard afspeellijst, shuffles met andere standaard afspeellijsten geb
 #: ./vue/Stations/Profile/FrontendPanel.vue:56
 #: ./vue/Stations/Profile/FrontendPanel.vue:44
 msgid "Start"
-msgstr "Start"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Schedule.vue:63
 #: ./vue/Stations/Playlists/Form/Schedule.vue:1
@@ -2372,7 +2372,7 @@ msgstr "Tijdzone"
 
 #: ./vue/Admin/StorageLocations.vue:19
 msgid "Station(s)"
-msgstr "Station(s)"
+msgstr ""
 
 #: ./vue/InlinePlayer.vue:19
 #: ./vue/Public/Player.vue:62
@@ -2381,7 +2381,7 @@ msgstr "Station(s)"
 #: ./vue/Stations/Profile/FrontendPanel.vue:60
 #: ./vue/Stations/Profile/FrontendPanel.vue:48
 msgid "Stop"
-msgstr "Stop"
+msgstr ""
 
 #: ./vue/Public/WebDJ/SettingsPanel.vue:28
 msgid "Stop Streaming"
@@ -2423,7 +2423,7 @@ msgstr "Streamer gebruikersnaam"
 #: ./vue/Stations/Profile/SchedulePanel.vue:17
 #: ./vue/Stations/Profile/SchedulePanel.vue:1
 msgid "Streamer/DJ"
-msgstr "Streamer/DJ"
+msgstr ""
 
 #: ./vue/Stations/Streamers.vue:6
 msgid "Streamer/DJ Accounts"
@@ -2437,7 +2437,7 @@ msgstr "Streamers / DJ's"
 
 #: ./vue/Stations/Profile/StreamsPanel.vue:3
 msgid "Streams"
-msgstr "Streams"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Schedule.vue:22
 #: ./vue/Stations/Streamers/Form/Schedule.vue:22
@@ -2785,7 +2785,7 @@ msgstr "Visuele Cue Editor"
 #: ./vue/InlinePlayer.vue:20
 #: ./vue/Public/Player.vue:68
 msgid "Volume"
-msgstr "Volume"
+msgstr ""
 
 #: ./vue/Stations/Playlists/Form/Advanced.vue:6
 msgid "Warning"
@@ -2793,12 +2793,12 @@ msgstr "Waarschuwing"
 
 #: ./vue/Common/Waveform.vue:15
 msgid "Waveform Zoom"
-msgstr "Waveform Zoom"
+msgstr ""
 
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:22
 #: ./vue/Stations/Profile/PublicPagesPanel.vue:20
 msgid "Web DJ"
-msgstr "Web DJ"
+msgstr ""
 
 #: ./vue/Stations/Podcasts/EpisodeForm/BasicInfo.vue:13
 #: ./vue/Stations/Podcasts/EpisodeForm/BasicInfo.vue:1
